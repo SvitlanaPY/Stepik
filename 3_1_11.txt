@@ -1,0 +1,13 @@
+Apple II, компьютерна€ мышь Lisa, Sony PS1, YIS-805, IBM 5150, Macintosh LC520, Ёльбрус 801-PC
+1500
+Michael, Jake, John, Alex, Jane, Steve
+John YIS-805 2400
+Jane Macintosh LC520 5000
+Jake Macintosh LC520 4000
+Michael IBM 5150 10000
+Alex Apple II 1501
+Steve Apple II 15000
+Sergey Apple II 17000
+Lisa компьютерна€ мышь Lisa 2000
+Jake Sony PS1 4200
+јукцион закончен!

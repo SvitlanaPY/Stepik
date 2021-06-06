@@ -1,0 +1,8 @@
+!! cannot resolve this method !!
+@@ invalid type @@
+@@ StackOverFlowException @@
+// here I change the variables name //
+** this class is used for operating with the database, including CRUD operations and registering new users **
+error on line 42
+// TODO: optimize recursive calls //
+.

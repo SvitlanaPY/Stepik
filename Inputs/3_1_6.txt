@@ -1,0 +1,19 @@
+driver.drv system
+bussiness_data.txt confidential
+gtaV_graphics.txt settings
+otchet.txt ordinary
+fight_club.torrent ordinary
+facebook_users.db ordinary
+revenue_data.txt confidential
+top10_anime_titles.txt confidential
+best_coding_practices.pdf ordinary
+.
+driver.drv read admin
+revenue_data.txt read experienced
+gtaV_graphics.txt edit experienced
+otchet.txt edit admin
+otchet.txt read user
+fight_club.torrent read experienced
+facebook_users.db read user
+top10_anime_titles.txt read experienced
+.
